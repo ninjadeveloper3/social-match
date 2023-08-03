@@ -28,8 +28,9 @@ Our AI chatbot, powered by NLP, can extract key details from user's inputs, such
 ### Matrix Server
 The app includes a Matrix server for showing chatrooms. The purpose of the Matrix server is to connect users with similar interests. When a user interacts with the AI chatbot, event details are sent to the Matrix server. Users with matching profiles can then see and join relevant chatrooms. 
 
-## Screenshots
-_You can put some screenshots of your app here._
+## Screenshots/Videos
+
+https://drive.google.com/file/d/1bGlUNazBUnyc4rVVqQypZfoANraYMMZP/view?usp=sharing
 
 ## Installation & Setup
 _Follow these steps to build and run the project._
@@ -56,4 +57,4 @@ This project is licensed under the terms of the MIT license.
 ## Acknowledgments
 Thanks to the open-source community for providing inspiration and code snippets for this project. Special thanks to Google's ML Kit and Matrix Server for powering our core features.
 
-For any queries, feel free to open an issue, or reach out to me directly at _your email address here_. Enjoy using the app!
+For any queries, feel free to open an issue, or reach out. Enjoy using the app!

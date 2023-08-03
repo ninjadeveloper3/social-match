@@ -30,7 +30,8 @@ The app includes a Matrix server for showing chatrooms. The purpose of the Matri
 
 ## Screenshots/Videos
 
-https://drive.google.com/file/d/1bGlUNazBUnyc4rVVqQypZfoANraYMMZP/view?usp=sharing
+[![Watch the video](https://drive.google.com/file/d/1bGlUNazBUnyc4rVVqQypZfoANraYMMZP/view)
+
 
 ## Installation & Setup
 _Follow these steps to build and run the project._
